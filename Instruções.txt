@@ -1,0 +1,8 @@
+Instruções de uso do Jogo de Adivinhação
+
+1- Abra o programa "Jogo de adivinhação.py" com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+2- Digite um número entre 0 e 1.000 (mil) e aperte ENTER;
+
+3- Siga as dicas (MAIOR e MENOR) e vá digitando os números até acertar.
